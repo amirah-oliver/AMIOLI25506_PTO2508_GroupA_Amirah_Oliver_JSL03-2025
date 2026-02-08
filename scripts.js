@@ -188,7 +188,7 @@ if (tasks.length >= 6) {
 // Log all tasks
 console.log("All tasks:", tasks);
 
-// Filter completed tasks
+// Filter completed tasks 
 const completedTasks = tasks.filter(task => task.status === "done");
 
 // Log completed tasks
