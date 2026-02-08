@@ -182,10 +182,10 @@ if (tasks.length >= 6) {
 }
 
 // ===============================
-// Console Logging
+// Console Logging 
 // ===============================
 
-// Log all tasks
+// Log all tasks 
 console.log("All tasks:", tasks);
 
 // Filter completed tasks 
