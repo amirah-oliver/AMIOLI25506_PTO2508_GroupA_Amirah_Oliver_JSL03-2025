@@ -168,7 +168,7 @@ const MAX_NEW_TASKS = 3;
 
 if (tasks.length >= 6) {
   alert(
-    "There are enough tasks on your board, please check them in the console."
+    "There are enough tasks on your board, please check them in the console." 
   );
 } else {
   const availableSlots = MAX_NEW_TASKS;
