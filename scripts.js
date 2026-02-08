@@ -191,5 +191,5 @@ console.log("All tasks:", tasks);
 // Filter completed tasks 
 const completedTasks = tasks.filter(task => task.status === "done");
 
-// Log completed tasks
+// Log completed tasks 
 console.log("Completed tasks:", completedTasks);
