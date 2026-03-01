@@ -32,14 +32,25 @@ With its clean interface and modal-based task editor, this project helps users *
 - **🔄 Live Counts**: Each column dynamically updates the task count.  
 - **🎨 Modern UI**: Clean, minimalistic interface with hover effects.  
 - **📱 Responsive Design**: Works across devices with flexible layouts.
-- New
+  
+ ## ⚙️ Updated Features 
+ 
+* Save tasks as objects inside an array to keep them organised.
+* Let users add up to three new tasks to the existing list.
+* Give each new task a unique ID that increases from the last task in the array.
+* Ask users to enter the task title, description, and status, then store this information in an object.
+* Show this message when the task limit is reached: *"There are enough tasks on your board, please check them in the console."*
+* Use a filter function to show only tasks with the status **"done"**.
+* Print all tasks in the console with a clear label.
+* Print only completed tasks (status: **"done"**) in the console under a **"Completed Tasks"** label.
+
 
 ## 👩‍💻 Tech Stack
 
 - **HTML5**: Structure of the application.  
 - **CSS3**: Styling and layout with modern responsive design.  
 - **Vanilla JavaScript**: Task management logic (CRUD operations).
-- 
+- **Javascripts . js** : Runs 
 
 ---
 
